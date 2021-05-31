@@ -1,3 +1,5 @@
+// Input / Output of Node js
+
 // blocking
 const getUserSync = require('.path/getUserSync');
 
